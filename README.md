@@ -13,7 +13,14 @@ c) I also created a function that takes the extrated entities and relationships 
 <br/>
 This method first extracts the entities and relations into a dictionary and the used pandas.Dataframe to convert the generated dictionary in to a dataframe. The image below shows how the dataframe looks like after it was generated.<br/>
 ![image](https://user-images.githubusercontent.com/39290938/186642028-69278096-ee51-4bfb-b5ed-107fd650be37.png)
-<br/>
+<br/><br/><br/>
+## Task 2(Creation and visualisation of knowledge graph)
+a) I made use of the NetworkX and matplotlib libray in generating the Knowlegde Grapth. The NetworkX library was used to draw and configure the Knowlegde graph. It was used to load the dataframe and then converted into the graph. matplotlib was then used to visualize the graph. The image below gives a snippet of the code used to perform this action<br/><br/>
+![image](https://user-images.githubusercontent.com/39290938/186642708-bfffb9ae-b979-47be-a32c-e3c52a125981.png)
+<br/><br/>
+The image below shows how the Knowledge graph looked like after it was generated.<br/><br/> 
+![image](https://user-images.githubusercontent.com/39290938/186643812-a4ff41b6-12d6-4745-ac77-d06724a35ea8.png)
+
 
 
 
