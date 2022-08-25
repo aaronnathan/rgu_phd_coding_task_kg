@@ -1,0 +1,11 @@
+{"label":"RELATION","pattern":"lecturer"}
+{"label":"RELATION","pattern":"published"}
+{"label":"RELATION","pattern":"proud of"}
+{"label":"RELATION","pattern":"work on"}
+{"label":"RELATION","pattern":"research assistant"}
+{"label":"RELATION","pattern":"professor"}
+{"label":"WORK_OF_ART","pattern":"Counting Cells: A CNN Case study"}
+{"label":"DEPT","pattern":"the Sentiment Analysis Research Group, RG"}
+{"label":"ORG","pattern":"SNEU"}
+{"label":"ORG","pattern":"Scotland North East University"}
+{"label":"ORG","pattern":"Scotland North East University (SNEU)"}
